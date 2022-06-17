@@ -1,6 +1,6 @@
 # plugin-for-peatio
 
-plugin autor Sat0ex
+plugin autor Satoex
 
 donation are welcome
 
