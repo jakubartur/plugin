@@ -1,0 +1,129 @@
+- name: Tron Deposit Wallet
+  blockchain_key: tron-testnet
+  currency_id: trx
+  address: 'TPx5k41UHxVCvuF7ymHbGeCfC95ommE63t'
+  kind: deposit
+  nsig: 1
+  max_balance: 0.0
+  status: active
+  gateway: tron
+  settings:
+    uri: https://api.nileex.io/
+    secret: '939ae0bca398d1f854937e1446eaedcfb4bb4864c1fac4cd31fda48b5d828964'
+
+- name: Tron Hot Wallet
+  blockchain_key: tron-testnet
+  currency_id: trx
+  address: 'TPx5k41UHxVCvuF7ymHbGeCfC95ommE63t'
+  kind: hot
+  nsig: 1
+  max_balance: 100.0
+  status: active
+  gateway: tron
+  settings:
+    uri: https://api.nileex.io/
+    secret: '939ae0bca398d1f854937e1446eaedcfb4bb4864c1fac4cd31fda48b5d828964'
+
+- name: Tron Warm Wallet
+  blockchain_key: tron-testnet
+  currency_id: trx
+  address: 'TPx5k41UHxVCvuF7ymHbGeCfC95ommE63t'
+  kind: warm
+  nsig: 1
+  max_balance: 1000.0
+  status: active
+  gateway: tron
+  settings:
+    uri: https://api.nileex.io/
+    secret: '939ae0bca398d1f854937e1446eaedcfb4bb4864c1fac4cd31fda48b5d828964'
+
+- name: Tron Fee Wallet
+  blockchain_key: tron-testnet
+  currency_id: trx
+  address: 'TPx5k41UHxVCvuF7ymHbGeCfC95ommE63t'
+  kind: fee
+  nsig: 1
+  max_balance: 1000.0
+  status: active
+  gateway: tron
+  settings:
+    uri: https://api.nileex.io/
+    secret: '939ae0bca398d1f854937e1446eaedcfb4bb4864c1fac4cd31fda48b5d828964'
+
+- name: TRONZ Deposit Wallet
+  blockchain_key: tron-testnet
+  currency_id: trz
+  address: 'TPx5k41UHxVCvuF7ymHbGeCfC95ommE63t'
+  kind: deposit
+  nsig: 1
+  max_balance: 0.0
+  status: active
+  gateway: tron
+  settings:
+    uri: https://api.nileex.io/
+    secret: '939ae0bca398d1f854937e1446eaedcfb4bb4864c1fac4cd31fda48b5d828964'
+
+- name: TRONZ Hot Wallet
+  blockchain_key: tron-testnet
+  currency_id: trz
+  address: 'TPx5k41UHxVCvuF7ymHbGeCfC95ommE63t'
+  kind: hot
+  nsig: 1
+  max_balance: 100.0
+  status: active
+  gateway: tron
+  settings:
+    uri: https://api.nileex.io/
+    secret: '939ae0bca398d1f854937e1446eaedcfb4bb4864c1fac4cd31fda48b5d828964'
+
+- name: TRONZ Warm Wallet
+  blockchain_key: tron-testnet
+  currency_id: trz
+  address: 'TPx5k41UHxVCvuF7ymHbGeCfC95ommE63t'
+  kind: warm
+  nsig: 1
+  max_balance: 1000.0
+  status: active
+  gateway: tron
+  settings:
+    uri: https://api.nileex.io/
+    secret: '939ae0bca398d1f854937e1446eaedcfb4bb4864c1fac4cd31fda48b5d828964'
+
+- name: JST Deposit Wallet
+  blockchain_key: tron-testnet
+  currency_id: jst
+  address: 'TPx5k41UHxVCvuF7ymHbGeCfC95ommE63t'
+  kind: deposit
+  nsig: 1
+  max_balance: 0.0
+  status: active
+  gateway: tron
+  settings:
+    uri: https://api.nileex.io/
+    secret: '939ae0bca398d1f854937e1446eaedcfb4bb4864c1fac4cd31fda48b5d828964'
+
+- name: JST Hot Wallet
+  blockchain_key: tron-testnet
+  currency_id: jst
+  address: 'TPx5k41UHxVCvuF7ymHbGeCfC95ommE63t'
+  kind: hot
+  nsig: 1
+  max_balance: 100.0
+  status: active
+  gateway: tron
+  settings:
+    uri: https://api.nileex.io/
+    secret: '939ae0bca398d1f854937e1446eaedcfb4bb4864c1fac4cd31fda48b5d828964'
+
+- name: JST Warm Wallet
+  blockchain_key: tron-testnet
+  currency_id: jst
+  address: 'TPx5k41UHxVCvuF7ymHbGeCfC95ommE63t'
+  kind: warm
+  nsig: 1
+  max_balance: 1000.0
+  status: active
+  gateway: tron
+  settings:
+    uri: https://api.nileex.io/
+    secret: '939ae0bca398d1f854937e1446eaedcfb4bb4864c1fac4cd31fda48b5d828964'
