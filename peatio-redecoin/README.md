@@ -1,4 +1,4 @@
-# safeminecoin-plugin-for-peatio
+# redecoin-plugin-for-peatio
 
 Is assured you have own peatio image ready, if so lets go.....
 
